@@ -1,9 +1,9 @@
 ABOUT ME !!!
 - 👋 Hi, I’m Prasanna Venketesh S @Prasanna2910
 - 👀 I’m interested in Computer Science, Space research and aero-dynamics
-- 🌱 I’m currently cooking React.js and have tasted HTML, CSS and Vanilla.js
+- 🌱 I’m currently cooking system designs and have tasted HTML, CSS, Vanilla.js, React.js, toastify, Express.js, Node, MongoDB, Mongoose, JOI, JWT
 - 💞️ I’m looking to collaborate on projects related to web development
-- 📫 How to reach me prasanna.prodesigns@gmail.com
+- 📫 How to reach me ? Well, the answer is through - prasanna.prodesigns@gmail.com
 - 😄 Adaptable, creative, confident, leader
 - ⚡ Love Apeiron more than Peras
 
